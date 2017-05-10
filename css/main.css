@@ -25,3 +25,12 @@
 .recipe h3, .recipe p{
   color: white;
 }
+.recipe img{
+  width: 250px;
+}
+label{
+  color: white;
+}
+input[type="submit"]{
+  width: 100px;
+}
