@@ -34,3 +34,11 @@ label{
 input[type="submit"]{
   width: 100px;
 }
+
+footer{
+  background-color: yellow;
+}
+
+footer p {
+  padding: 20px 10px;
+}
